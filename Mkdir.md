@@ -52,3 +52,21 @@ Italicized text is the *cat's meow*.
 
 
 3.  Close the file.
+
+
+import java.util.*;
+
+public class Solution {
+
+    public static String[] stringToArray(String s) {
+     String myString = "Robin, Singh";
+String [] name = s.split (" ");
+System.out.println(Arrays.toString(name));
+
+      return s.split (" ");
+    }
+
+
+
+
+
