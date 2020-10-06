@@ -21,6 +21,8 @@ And this is the second line.
 
 I just love **bold text**.
 
+mary had a little lamg little lamb. Mary had    
+a little lamb whose fleece was white as snow.......
 
 Italicized text is the *cat's meow*.
 
@@ -31,6 +33,15 @@ Italicized text is the *cat's meow*.
           <head>
             <Java>
           </head>
+
+
+  tring name = "Java is Fun";      
+  
+   name.toUpperCase();        
+   
+   
+ System.out.println(name.toUpperCase());
+
 
 3.  Update the title to match the name of your website.   
 
